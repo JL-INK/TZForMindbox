@@ -1,0 +1,10 @@
+D:\TZ\TZ\TZ\bin\Release\netstandard2.0\TZ.deps.json
+D:\TZ\TZ\TZ\bin\Release\netstandard2.0\TZ.dll
+D:\TZ\TZ\TZ\bin\Release\netstandard2.0\TZ.pdb
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.csproj.AssemblyReference.cache
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.AssemblyInfoInputs.cache
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.AssemblyInfo.cs
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.csproj.CoreCompileInputs.cache
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.dll
+D:\TZ\TZ\TZ\obj\Release\netstandard2.0\TZ.pdb

@@ -1,0 +1,9 @@
+D:\TZ\TZForMindbox\Project\TestDLL\bin\Debug\TestDLL.exe.config
+D:\TZ\TZForMindbox\Project\TestDLL\bin\Debug\TestDLL.exe
+D:\TZ\TZForMindbox\Project\TestDLL\bin\Debug\TestDLL.pdb
+D:\TZ\TZForMindbox\Project\TestDLL\bin\Debug\TZ.dll
+D:\TZ\TZForMindbox\Project\TestDLL\bin\Debug\TZ.pdb
+D:\TZ\TZForMindbox\Project\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+D:\TZ\TZForMindbox\Project\TestDLL\obj\Debug\TestDLL.csproj.CopyComplete
+D:\TZ\TZForMindbox\Project\TestDLL\obj\Debug\TestDLL.exe
+D:\TZ\TZForMindbox\Project\TestDLL\obj\Debug\TestDLL.pdb

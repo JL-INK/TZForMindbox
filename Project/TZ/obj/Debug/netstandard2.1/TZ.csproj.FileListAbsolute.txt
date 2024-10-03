@@ -1,0 +1,9 @@
+D:\TZ\TZ\TZ\bin\Debug\netstandard2.1\TZ.deps.json
+D:\TZ\TZ\TZ\bin\Debug\netstandard2.1\TZ.dll
+D:\TZ\TZ\TZ\bin\Debug\netstandard2.1\TZ.pdb
+D:\TZ\TZ\TZ\obj\Debug\netstandard2.1\TZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\TZ\TZ\TZ\obj\Debug\netstandard2.1\TZ.AssemblyInfoInputs.cache
+D:\TZ\TZ\TZ\obj\Debug\netstandard2.1\TZ.AssemblyInfo.cs
+D:\TZ\TZ\TZ\obj\Debug\netstandard2.1\TZ.csproj.CoreCompileInputs.cache
+D:\TZ\TZ\TZ\obj\Debug\netstandard2.1\TZ.dll
+D:\TZ\TZ\TZ\obj\Debug\netstandard2.1\TZ.pdb

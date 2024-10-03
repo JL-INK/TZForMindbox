@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "POVKnTb1eEHZo/oTOr/jWUll+yGGHKebJ0MhQLiRz1BS84KsB7HvJwu2L0h6HixN6mAPLrnq0Np+H3RT/wmWQg==",
+  "success": true,
+  "projectFilePath": "D:\\TZForMindbox\\Project\\TZ\\TZ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FrantsevVI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
