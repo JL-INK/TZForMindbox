@@ -1,19 +1,19 @@
 DECLARE @Product TABLE (ProductId INT,  ProductName NVARCHAR(64));
 
 INSERT INTO @Product
-VALUES(1, 'Телефон'),
-	(2, 'Холодильник'),
-    (3, 'Стол'),
-    (4, 'Яблоко'),
-    (5, 'Мясорубка'),
-    (6, 'ПК'),
-    (7, 'Настольная лампа')
+VALUES(1, 'Phone'),
+	(2, 'Fridge'),
+    (3, 'Table'),
+    (4, 'Coffee maker'),
+    (5, 'Meat grinder'),
+    (6, 'PC'),
+    (7, 'Table lamp')
 
 DECLARE @Category TABLE (CategoryId INT,  CategoryName NVARCHAR(64));
     
 INSERT INTO @Category
-VALUES(1, 'Бытовая техника'),
-	(2, 'Электроника')
+VALUES(1, 'Appliances'),
+	(2, 'Electronics')
     
 DECLARE @CategoryProduct TABLE (CategoryProductId INT,  ProductId INT, CategoryId INT);
 
@@ -24,7 +24,8 @@ VALUES
     (3, 2, 2),
     (4, 6, 2),
     (5, 7, 2),
-	(6, 5, 1)
+	(6, 5, 1),
+	(6, 4, 1)
     
 select 
 	ProductName, 
